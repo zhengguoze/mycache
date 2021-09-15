@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require guozi/mycache -vvv
+$ composer require zhengguoze/mycache -vvv
 ```
 
 ## Usage
